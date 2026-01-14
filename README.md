@@ -19,7 +19,7 @@ A custom web application uptime and content monitor built with Python, FastAPI, 
 
 1. **Clone the repo**:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/site-monitor-playwright.git](https://github.com/YOUR_USERNAME/site-monitor-playwright.git)
+   git clone [https://github.com/YOUR_USERNAME/site-monitor-playwright.git](https://github.com/ccarvel/site-monitor-playwright.git)
    cd site-monitor-playwright
    ```
 2. **With Docker Engine or Docker Desktop running**
