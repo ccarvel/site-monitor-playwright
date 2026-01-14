@@ -21,3 +21,8 @@ A custom web application uptime and content monitor built with Python, FastAPI, 
    ```bash
    git clone [https://github.com/YOUR_USERNAME/site-monitor-playwright.git](https://github.com/YOUR_USERNAME/site-monitor-playwright.git)
    cd site-monitor-playwright
+   ```
+2. **With Docker Engine or Docker Desktop running**
+   ```bash
+   docker compose up --build -d
+   ```
