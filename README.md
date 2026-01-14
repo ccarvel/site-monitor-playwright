@@ -19,10 +19,13 @@ A custom web application uptime and content monitor built with Python, FastAPI, 
 
 1. **Clone the repo**:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/site-monitor-playwright.git](https://github.com/ccarvel/site-monitor-playwright.git)
+   git clone [https://github.com/ccarvel/site-monitor-playwright.git](https://github.com/ccarvel/site-monitor-playwright.git)
    cd site-monitor-playwright
    ```
-2. **With Docker Engine or Docker Desktop running**
+2. **Create a .env file**
+   You can use the ```.env.template``` file to verify what secrets are expected;    
+   (**note: uses Discord webhooks for notifications** TK: add documentation for setting this up)  
+4. **With Docker Engine or Docker Desktop running**
    ```bash
    docker compose up --build -d
    ```
