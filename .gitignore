@@ -1,0 +1,27 @@
+# Secrets & Credentials
+.env
+
+# Database and local data
+app/data/
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Screenshots (Optional: keep if you want samples, but usually ignored)
+app/screenshots/
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
